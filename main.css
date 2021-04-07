@@ -1,9 +1,9 @@
 body {
-	font-family: Kurier;
+	font-family: Arial;
 	font-size: 13pt;
 }
 #name_title {
-	font-family: Kurier;
+	font-family: Arial;
 	width: 60%;
 	text-align: left;
 	margin-left: 5%;
@@ -12,52 +12,51 @@ body {
 }
 
 #container {
-	font-family: Kurier;
+	font-family: Arial;
 	width: 100%;
 }
 
 #about { 
-	position: relative;
-margin-top: 7%;
+position: relative;
+margin-top: 10%;
 margin-left: 5%;
 font-weight: bold;
-font-family: Kurier;
+font-family: Arial;
 font-size: 13pt;
 }
 
 
 #info_text {
 	position: relative;
-	width: 30%;
+	width: 40%;
 	margin-top: 0%;
 	margin-left: 15%;
 	text-align: left;
 	font-size: 13pt;
-	font-family: Kurier;
+	font-family: Arial;
 }
 
 #profile_picture{
 	position: absolute;
-	width: 50%;
-	margin-left: 50%;
-	margin-top: 0%;
+	margin-left: 40%;
+	margin-top: -1%;
 }
 
 #profile_picture img {
-	width: 25%;
+	width: 17%;
 }
 
 #info_text a {
 	text-decoration: none;
 	color: gray;
-	font-family: Kurier;
+	font-family: Arial;
 	font-size: 13pt;
 }
 
 #cv {
 	margin-top: 10%;
 	font-weight:bold;
-	font-family: Kurier;
+	font-family: Arial;
 	font-size: 13pt;
 
 }
@@ -66,35 +65,10 @@ font-size: 13pt;
 	text-decoration: underline;
 	color: #6495ED;
 	margin-left: 10%;
-	font-family: Kurier;
+	font-family: Arial;
 	font-size: 13pt;
 
 }
-
-#pub_text a {
-text-decoration: underline;
-color: #6495ED;
-font-weight:bold;
-font-family: Kurier;
-font-size: 13pt;
-}
-
-#pub_title { 
-	font-weight: bold;
-	position: relative;
-	margin-top: 5%;
-	margin-left: 5%;
-	font-family: Kurier;
-	font-size: 13pt;
- }
-
- #pub_text{
- 	position: relative;
-	margin-top: 0%;
-	margin-left: 15%;
-	font-size: 13pt;
-	font-family: Kurier;
- }
 
 
 #recent_news{
@@ -102,7 +76,7 @@ font-size: 13pt;
 	position: relative;
 	margin-left: 5%;
 	margin-top:5%;
-	font-family: Kurier;
+	font-family: Arial;
 	font-size: 13pt;
 
 }
@@ -112,15 +86,43 @@ text-decoration: underline;
 color: #6495ED;
 font-weight:bold;
 font-size: 13pt;
-font-family: Kurier;
+font-family: Arial;
 }
 
 #recent_news_text{
 	position: relative;
 	margin-left: 15%;
 	margin-top: 0%;
-	font-family: Kurier;
+	font-family: Arial;
 	font-size: 13pt;
 }
+
+
+#pub_text a {
+text-decoration: underline;
+color: #6495ED;
+font-weight:bold;
+font-family: Arial;
+font-size: 13pt;
+}
+
+#pub_title { 
+	font-weight: bold;
+	position: relative;
+	margin-top: 5%;
+	margin-left: 5%;
+	font-family: Arial;
+	font-size: 13pt;
+ }
+
+ #pub_text{
+ 	position: relative;
+	margin-top: 0%;
+	margin-left: 15%;
+	font-size: 13pt;
+	font-family: Arial;
+ }
+
+
 
 
