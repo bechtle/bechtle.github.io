@@ -14,7 +14,7 @@ body {
 }
 
 #about { 
-	position: absolute;
+	position: relative;
 margin-top: 7%;
 margin-left: 5%;
 font-weight: bold;
@@ -22,9 +22,9 @@ font-weight: bold;
 
 
 #info_text {
-	position: absolute;
+	position: relative;
 	width: 30%;
-	margin-top: 7%;
+	margin-top: -1%;
 	margin-left: 15%;
 	text-align: left;
 	font-size: 13pt;
@@ -32,10 +32,10 @@ font-weight: bold;
 }
 
 #profile_picture{
-	position: absolute;
+	position: relative;
 	width: 50%;
 	margin-left: 50%;
-	margin-top: -3%
+	margin-top: -25%
 }
 
 #profile_picture img {
@@ -68,14 +68,14 @@ font-weight:bold;
 
 #pub_title { 
 	font-weight: bold;
-	position: absolute;
-	margin-top: 42%;
+	position: relative;
+	margin-top: 5%;
 	margin-left: 5%;
  }
 
  #pub_text{
- 	position: absolute;
-	margin-top: 42%;
+ 	position: relative;
+	margin-top: -1%;
 	margin-left: 15%;
 	font-size: 13pt;
  }
@@ -83,9 +83,9 @@ font-weight:bold;
 
 #recent_news{
 	font-weight: bold;
-	position: absolute;
+	position: relative;
 	margin-left: 5%;
-	margin-top: 30%;
+	margin-top:15%;
 
 }
 
@@ -97,9 +97,9 @@ font-size: 13pt;
 }
 
 #recent_news_text{
-	position: absolute;
+	position: relative;
 	margin-left: 15%;
-	margin-top: 30%;
+	margin-top: -1%;
 }
 
 
