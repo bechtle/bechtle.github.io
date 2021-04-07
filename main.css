@@ -1,5 +1,6 @@
 body {
 	font-family: Kurier;
+	font-size: 13pt;
 }
 #name_title {
 	width: 60%;
@@ -24,7 +25,7 @@ font-weight: bold;
 #info_text {
 	position: relative;
 	width: 30%;
-	margin-top: -1%;
+	margin-top: 0%;
 	margin-left: 15%;
 	text-align: left;
 	font-size: 13pt;
@@ -75,7 +76,7 @@ font-weight:bold;
 
  #pub_text{
  	position: relative;
-	margin-top: -1%;
+	margin-top: 0%;
 	margin-left: 15%;
 	font-size: 13pt;
  }
@@ -99,7 +100,7 @@ font-size: 13pt;
 #recent_news_text{
 	position: relative;
 	margin-left: 15%;
-	margin-top: -1%;
+	margin-top: 0%;
 }
 
 
