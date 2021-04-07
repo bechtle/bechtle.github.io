@@ -32,10 +32,10 @@ font-weight: bold;
 }
 
 #profile_picture{
-	position: relative;
+	position: absolute;
 	width: 50%;
 	margin-left: 50%;
-	margin-top: -25%
+	margin-top: 0%
 }
 
 #profile_picture img {
@@ -85,7 +85,7 @@ font-weight:bold;
 	font-weight: bold;
 	position: relative;
 	margin-left: 5%;
-	margin-top:15%;
+	margin-top:5%;
 
 }
 
