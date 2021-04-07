@@ -19,6 +19,8 @@ margin-top: 7%;
 margin-left: 5%;
 font-weight: bold;
 }
+
+
 #info_text {
 	position: absolute;
 	width: 30%;
@@ -57,3 +59,44 @@ font-weight: bold;
 	margin-left: 10%;
 
 }
+
+#pub_text a {
+text-decoration: underline;
+color: #6495ED;
+font-weight:bold;
+}
+
+#pub_title { 
+	font-weight: bold;
+	position: absolute;
+	margin-top: 42%;
+	margin-left: 5%;
+ }
+
+ #pub_text{
+ 	position: absolute;
+	margin-top: 42%;
+	margin-left: 15%;
+ }
+
+
+#recent_news{
+	font-weight: bold;
+	position: absolute;
+	margin-left: 5%;
+	margin-top: 30%;
+}
+
+#recent_news_text a {
+text-decoration: underline;
+color: #6495ED;
+font-weight:bold;
+}
+
+#recent_news_text{
+	position: absolute;
+	margin-left: 15%;
+	margin-top: 30%;
+}
+
+
