@@ -3,6 +3,7 @@ body {
 	font-size: 13pt;
 }
 #name_title {
+	font-family: Kurier;
 	width: 60%;
 	text-align: left;
 	margin-left: 5%;
@@ -11,6 +12,7 @@ body {
 }
 
 #container {
+	font-family: Kurier;
 	width: 100%;
 }
 
@@ -19,6 +21,7 @@ body {
 margin-top: 7%;
 margin-left: 5%;
 font-weight: bold;
+font-family: Kurier;
 }
 
 
@@ -30,6 +33,7 @@ font-weight: bold;
 	text-align: left;
 	font-size: 13pt;
 	font-weight: lighter;
+	font-family: Kurier;
 }
 
 #profile_picture{
@@ -37,6 +41,7 @@ font-weight: bold;
 	width: 50%;
 	margin-left: 50%;
 	margin-top: 0%
+	font-family: Kurier;
 }
 
 #profile_picture img {
@@ -46,11 +51,13 @@ font-weight: bold;
 #info_text a {
 	text-decoration: none;
 	color: gray;
+	font-family: Kurier;
 }
 
 #cv {
 	margin-top: 10%;
 	font-weight:bold;
+	font-family: Kurier;
 
 }
 
@@ -58,6 +65,7 @@ font-weight: bold;
 	text-decoration: underline;
 	color: #6495ED;
 	margin-left: 10%;
+	font-family: Kurier;
 
 }
 
@@ -65,6 +73,7 @@ font-weight: bold;
 text-decoration: underline;
 color: #6495ED;
 font-weight:bold;
+font-family: Kurier;
 }
 
 #pub_title { 
@@ -72,6 +81,7 @@ font-weight:bold;
 	position: relative;
 	margin-top: 5%;
 	margin-left: 5%;
+	font-family: Kurier;
  }
 
  #pub_text{
@@ -79,6 +89,7 @@ font-weight:bold;
 	margin-top: 0%;
 	margin-left: 15%;
 	font-size: 13pt;
+	font-family: Kurier;
  }
 
 
@@ -87,6 +98,7 @@ font-weight:bold;
 	position: relative;
 	margin-left: 5%;
 	margin-top:5%;
+	font-family: Kurier;
 
 }
 
@@ -95,12 +107,14 @@ text-decoration: underline;
 color: #6495ED;
 font-weight:bold;
 font-size: 13pt;
+font-family: Kurier;
 }
 
 #recent_news_text{
 	position: relative;
 	margin-left: 15%;
 	margin-top: 0%;
+	font-family: Kurier;
 }
 
 
