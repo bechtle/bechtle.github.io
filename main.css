@@ -77,6 +77,7 @@ font-weight:bold;
  	position: absolute;
 	margin-top: 42%;
 	margin-left: 15%;
+	font-size: 13pt;
  }
 
 
@@ -85,12 +86,14 @@ font-weight:bold;
 	position: absolute;
 	margin-left: 5%;
 	margin-top: 30%;
+
 }
 
 #recent_news_text a {
 text-decoration: underline;
 color: #6495ED;
 font-weight:bold;
+font-size: 13pt;
 }
 
 #recent_news_text{
