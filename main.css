@@ -1,0 +1,59 @@
+body {
+	font-family: Kurier;
+}
+#name_title {
+	width: 60%;
+	text-align: left;
+	margin-left: 5%;
+	margin-top: 3%;
+	font-size: 40pt;
+}
+
+#container {
+	width: 100%;
+}
+
+#about { 
+	position: absolute;
+margin-top: 7%;
+margin-left: 5%;
+font-weight: bold;
+}
+#info_text {
+	position: absolute;
+	width: 30%;
+	margin-top: 7%;
+	margin-left: 15%;
+	text-align: left;
+	font-size: 13pt;
+	font-weight: lighter;
+}
+
+#profile_picture{
+	position: absolute;
+	width: 50%;
+	margin-left: 50%;
+	margin-top: -3%
+}
+
+#profile_picture img {
+	width: 25%;
+}
+
+#info_text a {
+	text-decoration: none;
+	color: gray;
+}
+
+#cv {
+	margin-top: 10%;
+	font-weight:bold;
+
+}
+
+#cv a{
+	text-decoration: underline;
+	color: #6495ED;
+	margin-left: 10%;
+
+}
